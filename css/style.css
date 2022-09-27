@@ -1,0 +1,46 @@
+body{
+    background-color: #fff;
+}
+
+.productos__container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.ingreso__producto{
+    margin: 8px;
+    width: 20rem;
+}
+
+.btn-100px{
+    width: 100px;
+}
+
+.alinear-imputs{
+    width: 100px;
+}
+
+#descripcionPrenda{
+    width: 20rem;
+    margin-left: 7.5px;
+}
+
+.bg-color{
+    background-color: rgb(188, 245, 245);
+}
+
+.ml-3{
+    margin-left: 10px;
+}
+
+.temaOscuro{
+    color: #fff;
+    background-color: #191919;
+}
+
+.cardOscuta{
+    background-color: #191919;
+    border: solid 1px #fff;
+    color: #fff;
+    border-radius: 20px;
+}
